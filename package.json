@@ -1,0 +1,19 @@
+{
+  "name": "jj-cli-template",
+  "version": "1.0.0",
+  "description": "为jj-cli脚手架提供模版资源",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuneJH/template.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuneJH/template/issues"
+  },
+  "homepage": "https://github.com/JuneJH/template#readme"
+}
