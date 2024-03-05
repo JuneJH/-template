@@ -1,6 +1,7 @@
 {
-  "private": true,
-  "author": "JuneJH <15310487388@163.com>",
+  "name": "<%= projectName %>",
+  "version": "<%= version %>",
+  "description": "<%= description %>",
   "scripts": {
     "dev": "max dev",
     "build": "max build",

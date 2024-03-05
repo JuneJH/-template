@@ -1,6 +1,6 @@
 {
   "name": "jj-cli-template",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "description": "为jj-cli脚手架提供模版资源",
   "main": "index.js",
   "scripts": {
