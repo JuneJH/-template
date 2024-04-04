@@ -1,0 +1,7 @@
+export const HTTPCODE = {
+    SUCCEED: "10200",
+    SERVICE_ERROR: "10500",
+    UNACCESS: "10403",
+    UNLOGIN: "10401"
+
+}
